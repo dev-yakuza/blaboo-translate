@@ -13,6 +13,8 @@ I wanted to provide words that are not wrong for children or people who want to 
 
 Please help us a lot. feel free to edit and pull request.
 
+I use ```react-native-tts``` library for TTS(Text To Speech) feature but this library can't speak Korean ```닭``` so I use ```닥```. in Japanese also, Kanji pronunciation is weird so I use Hiragana or Katakana so this is not wrong data.
+
 Thank you for your help.
 
 if you want to know how to develop BlaBoo with React Native, you can see the development journal to click the link below.
@@ -27,8 +29,9 @@ if you want to know how to develop BlaBoo with React Native, you can see the dev
 
 子供または外国語を学びたい方々に間違っていない単語を提供するためにこんなに公開することになりました。
 
-皆さんのご橋梁く
 皆様の多くのご援助をお願いします。
+
+韓国語の```닭```は```react-native-tts```の発音が良くないので```닥```を使ってます。日本語も漢字の発音が良くないのでひらがなとカタカナを使ってます。したがってこれは間違ったテキストではないです。
 
 ありがとうございます。
 
@@ -45,6 +48,8 @@ React Nativeでアプリを開発しながら経験した事をブログで整�
 어린이 또는 외국어를 배우고 싶은 분들에게 틀리지 않은 단어를 제공하고 싶어서 이렇게 공개하게 되었습니다.
 
 여러분의 많은 도움 부탁드립니다.
+
+한국어에 ```닭```은 ```react-native-tts```라 발음을 제대로 하지 못해 ```닥```을 사용하고 있습니다. 일본어도 한자를 제대로 발음하지 못하는 경우가 많아 히라가나 또는 가타카나를 사용하고 있습니다. 따라서, 이 데이터는 정상적인 데이터입니다.
 
 감사합니다.
 
