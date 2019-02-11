@@ -10,6 +10,7 @@
     "nl": "boekenwinkel",
     "de": "Buchhandlung",
     "th": "ร้านหนังสือ",
+    "sv": "bokhandel",
     "ar": "",
     "cs": "",
     "da": "",
@@ -25,7 +26,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -39,6 +39,7 @@
     "nl": "Café",
     "de": "Cafe",
     "th": "คาเฟ่",
+    "sv": "Kafé",
     "ar": "",
     "cs": "",
     "da": "",
@@ -54,7 +55,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -68,6 +68,7 @@
     "nl": "Bloemenwinkel",
     "de": "Blumenladen",
     "th": "ร้านขายดอกไม้",
+    "sv": "florist",
     "ar": "",
     "cs": "",
     "da": "",
@@ -83,7 +84,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -97,6 +97,7 @@
     "nl": "Pizzawinkel",
     "de": "Pizzageschäft",
     "th": "ร้านพิซซ่า",
+    "sv": "pizza butik",
     "ar": "",
     "cs": "",
     "da": "",
@@ -112,7 +113,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -126,6 +126,7 @@
     "nl": "Hondenwinkel",
     "de": "Hundeshop",
     "th": "ร้านขายสุนัข",
+    "sv": "djuraffär",
     "ar": "",
     "cs": "",
     "da": "",
@@ -141,7 +142,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -155,6 +155,7 @@
     "nl": "Schoonheidssalon",
     "de": "Schönheitssalon",
     "th": "ร้านเสริมสวย",
+    "sv": "frisör",
     "ar": "",
     "cs": "",
     "da": "",
@@ -170,7 +171,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -184,6 +184,7 @@
     "nl": "Politiebureau",
     "de": "Polizeistation",
     "th": "สถานีตำรวจ",
+    "sv": "poliskontor",
     "ar": "",
     "cs": "",
     "da": "",
@@ -199,20 +200,20 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
     "ja": "コンビニ",
-    "en": "convenience",
+    "en": "convenience store",
     "ko": "편의점",
     "zh": "便利店",
-    "it": "Negozio di convenienza",
-    "fr": "commodité",
+    "it": "minimarket",
+    "fr": "épicerie",
     "hi": "सुविधा की दुकान",
-    "nl": "Gemakswinkel",
-    "de": "Convenience Store",
+    "nl": "gemakswinkel",
+    "de": "Gemischtwarenladen",
     "th": "ร้านสะดวกซื้อ",
+    "sv": "närbutik",
     "ar": "",
     "cs": "",
     "da": "",
@@ -228,7 +229,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -242,6 +242,7 @@
     "nl": "ziekenhuis",
     "de": "Krankenhaus",
     "th": "โรงพยาบาล",
+    "sv": "sjukhus",
     "ar": "",
     "cs": "",
     "da": "",
@@ -257,7 +258,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -271,6 +271,7 @@
     "nl": "appartement",
     "de": "Wohnung",
     "th": "ที่พัก",
+    "sv": "lägenhet",
     "ar": "",
     "cs": "",
     "da": "",
@@ -286,7 +287,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -300,6 +300,7 @@
     "nl": "huis",
     "de": "Haus",
     "th": "บ้าน",
+    "sv": "hus",
     "ar": "",
     "cs": "",
     "da": "",
@@ -315,7 +316,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -329,6 +329,7 @@
     "nl": "Bank",
     "de": "Bank",
     "th": "ธนาคาร",
+    "sv": "Bank",
     "ar": "",
     "cs": "",
     "da": "",
@@ -344,7 +345,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -358,6 +358,7 @@
     "nl": "fabriek",
     "de": "Fabrik",
     "th": "โรงงาน",
+    "sv": "fabrik",
     "ar": "",
     "cs": "",
     "da": "",
@@ -373,7 +374,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   },
   {
@@ -387,6 +387,7 @@
     "nl": "school",
     "de": "Schule",
     "th": "โรงเรียน",
+    "sv": "skola",
     "ar": "",
     "cs": "",
     "da": "",
@@ -402,7 +403,6 @@
     "ro": "",
     "ru": "",
     "sk": "",
-    "sv": "",
     "tr": ""
   }
 ]
